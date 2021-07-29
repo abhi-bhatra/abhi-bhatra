@@ -13,14 +13,14 @@
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/abhibhatra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/abhibhatra" height="30" width="40" /></a>
+<a href="https://dev.to/abhibhatra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/abhibhatra" height="30" width="40" /></a>
 <a href="https://twitter.com/the_bhatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_bhatra" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhinavsharma0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinavsharma0/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/abhinavbhatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/abhinavbhatra" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/abhinavsharma._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/abhinavsharma._/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/abhi_bhatra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/abhi_bhatra" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/abhinavsharma_c2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/abhinavsharma_c2" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@abhinavsharma._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@abhinavsharma._" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhinavsharma0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinavsharma0/" height="30" width="40" /></a>
+<a href="https://kaggle.com/abhinavbhatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/abhinavbhatra" height="30" width="40" /></a>
+<a href="https://www.instagram.com/abhinavsharma._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/abhinavsharma._/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/abhi_bhatra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/abhi_bhatra" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abhinavsharma_c2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/abhinavsharma_c2" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@abhinavsharma._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@abhinavsharma._" height="30" width="40" /></a>
 </p>
 <hr />
 
