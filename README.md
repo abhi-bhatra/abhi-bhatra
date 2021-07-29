@@ -18,7 +18,10 @@
 </p>
 <hr />
 <h3>📱 Tools, Technologies and Languages</h3>
-
+<p><a href="https://www.python.org" targe t="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&nbsp; <a href="https://www.anaconda.com" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anaconda.svg" alt="anaconda" width="40" height="40"/> </a>&nbsp; <a href="https://html.spec.whatwg.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>&nbsp; <a href="https://www.w3.org/Style/CSS/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a><a href="https://git-scm.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>&nbsp; <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a>&nbsp; <a href="https://reactjs.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/63901956/127478829-0da87f8c-3c71-4819-bf0f-41b2789ae65e.png" alt="react" width="40" height="40"/> </a>&nbsp; <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/63901956/127479160-72635c23-ed27-4dd6-8087-b3e2d393543e.png" alt="django" width="40" height="40"/> </a>&nbsp; <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/63901956/127479552-2879c519-8e94-476f-a7cd-ce183c08187a.png" alt="tensorflow" width="40" height="40"/> </a>&nbsp; 
+</p>
+<hr />
+<h3></h3>
 
 
 
