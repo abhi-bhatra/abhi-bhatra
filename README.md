@@ -37,6 +37,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi-bhatra" alt="abhi-bhatra" /></a> </p>
 
-- 📝 I regularly write articles on [https://www.abhinavsharma.live/](https://www.abhinavsharma.live/)
+- 📝 I regularly write articles on [https://www.abhinav.engineer/](https://www.abhinav.engineer/)
 <hr />
 
