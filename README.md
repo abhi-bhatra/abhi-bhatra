@@ -2,19 +2,18 @@
   <img src="https://user-images.githubusercontent.com/63901956/127440552-d30be963-3b1f-4160-b38f-a6f7efac3c80.png" height="200"/>
   <br />
   <h1 align="center">I am Abhinav Sharma</h1>
-  <h3 align="center">Web Developer | Microsoft Learn Student Ambassador | Cloud Evangelist </h3>
+  <h3 align="center">SRE, DevOps & Cloud | Public Speaker | Advising and training companies around Cloud Native </h3>
 </p>
 
 <h3>💬 About me: </h3>
 <p>
-  I pride myself in being a Passionate Python Developer and a Cloud Evangelist, skilled in Django, ReactJS, Linux and Tensorflow. I loved balancing creative mind with needs to produce results. I'm always looking to be challenged, and to challenge others. I'm pursuing my Bachelors in Technology from Jaipur Engineering College & Research Center, India. I am mentoring folks around India as the Microsoft Learn Student Ambassador and the Google Cloud Career Readiness Student Mentor❤
+  As a passionate Cloud Architect and DevOps Dynamo, I thrive on transforming complex challenges into seamless solutions. With mastery in Kubernetes and a knack for automation, I've honed my skills through hands-on experience in cloud environments, including AWS, Azure, GCP, and more.
 </p>
 <hr />
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/abhibhatra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/abhibhatra" height="30" width="40" /></a>
-<a href="https://twitter.com/the_bhatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_bhatra" height="30" width="40" /></a>
+<a href="https://x.com/callme_abhinav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_bhatra" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhinavsharma0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinavsharma0/" height="30" width="40" /></a>
 <a href="https://kaggle.com/abhinavbhatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/abhinavbhatra" height="30" width="40" /></a>
 <a href="https://www.instagram.com/abhinavsharma._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/abhinavsharma._/" height="30" width="40" /></a>
