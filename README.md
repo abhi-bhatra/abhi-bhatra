@@ -1,13 +1,13 @@
 <p align="center" style="margin-bottom: 0px">
-  <img src="https://user-images.githubusercontent.com/63901956/127440552-d30be963-3b1f-4160-b38f-a6f7efac3c80.png" height="200"/>
-  <br />
-  <h1 align="center">I am Abhinav Sharma</h1>
-  <h3 align="center">SRE, DevOps & Cloud | Public Speaker | Advising and training companies around Cloud Native </h3>
+  <img src="https://user-images.githubusercontent.com/63901956/127440552-d30be963-3b1f-4160-b38f-a6f7efac3c80.png" height="200"/>
+  <br />
+  <h1 align="center">I am Abhinav Sharma</h1>
+  <h3 align="center">SRE, DevOps & Cloud | Global Speaker | Advising and training companies around Cloud Native </h3>
 </p>
 
 <h3>💬 About me: </h3>
 <p>
-  As a passionate Cloud Architect and DevOps Dynamo, I thrive on transforming complex challenges into seamless solutions. With mastery in Kubernetes and a knack for automation, I've honed my skills through hands-on experience in cloud environments, including AWS, Azure, GCP, and more.
+  As a passionate Cloud Architect and DevOps Dynamo, I thrive on transforming complex challenges into seamless solutions. With mastery in Kubernetes and a knack for automation, I've honed my skills through hands-on experience in cloud environments, including AWS, Azure, GCP, and more.
 </p>
 <hr />
 
@@ -28,9 +28,6 @@
 <hr />
 
 <h3>📊 Stats: </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi-bhatra&show_icons=true&locale=en&layout=compact" alt="abhi-bhatra" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi-bhatra&show_icons=true&locale=en" alt="abhi-bhatra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-bhatra&" alt="abhi-bhatra" /></p>
 
@@ -38,4 +35,3 @@
 
 - 📝 I regularly write articles on [https://abhinav332.medium.com](https://abhinav332.medium.com/)
 <hr />
-
